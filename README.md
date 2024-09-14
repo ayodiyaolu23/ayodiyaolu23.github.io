@@ -1,3 +1,1 @@
-#Repository for profile display
-#
-#Line by Malik
+# Academic Profile for Diyaolu Hassan
